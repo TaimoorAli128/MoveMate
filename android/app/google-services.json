@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126656407781",
+    "project_id": "rider-542f0",
+    "storage_bucket": "rider-542f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126656407781:android:06ef7f1611be36d3bccc0c",
+        "android_client_info": {
+          "package_name": "com.example.corider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_Mu1Ifj7cCuOZzMhPulqZ16tF8W92Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
